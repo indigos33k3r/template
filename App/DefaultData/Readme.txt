@@ -1,0 +1,1 @@
+This folder contains save data. It is safe to remove this directory, although this will result in loss of data.
